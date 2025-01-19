@@ -6,7 +6,7 @@ from discord.ui import View, Modal, TextInput
 BOT_TOKEN = 'ТОКЕН'
 
 # ID отслеживаемого голосового канала
-WATCHED_CHANNEL_ID = ID Какнала в который нужно зайти для создания
+WATCHED_CHANNEL_ID = Какнал в который нужно зайти для создания
 
 intents = discord.Intents.default()
 intents.guilds = True
