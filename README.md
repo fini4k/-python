@@ -84,7 +84,7 @@ WATCHED_CHANNEL_ID=ID_отслеживаемого_канала
 
 ---
 
-🤖 **Автор**: Ваше имя  
+🤖 **Автор**: FINIK
 Telegram: @ws_fi
 Discord: fini4k
 Support server: https://discord.gg/BugVHqjmAd
